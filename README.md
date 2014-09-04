@@ -31,7 +31,7 @@ It continues to be run by USB and is therefore entirely student-led.
 
 ### Quizzes
 
-There will be a new quiz posted every two weeks on blackboard.
+There will be a new quiz posted every two weeks on blackboard. We will remind you in class, but its your responsibility to stay on top of these and watch for new quizzes.
 
 ### Labs
 
@@ -39,7 +39,11 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 
 ### Grading
 
-This is a pass/fail class. You will fail if you miss more than 2 points during the semester.
+This is a pass/fail class. You will fail if you miss more than 3 points during the semester.
+
+You get a point for every lecture, lab, and quiz.
+
+This, in effect, means that you can miss one lecture, one lab, and one quiz and still pass.
 
 You miss a point for each lecture/lab you don't attend and one for each quiz you miss.
 
