@@ -2,8 +2,8 @@
 
 * **Course Wiki:** [CS190](http://courses.cs.purdue.edu/cs19000:fall14:start)
 * **Instructors:**
-    + [Scott Opell](mailto:sopell@purdue.edu)
     + [Kirby Kohlmorgen](mailto:kirby@purdue.edu)
+    + [Scott Opell](mailto:sopell@purdue.edu)
 * **Need help?**
     + For course questions, use [Piazza](https://piazza.com/class/hz7luhvej2a4d0)
     + For other issues, email the [TA Mailing List](mailto:cs190-tools-ta@cs.purdue.edu)
@@ -22,6 +22,12 @@ It continues to be run by USB and is therefore entirely student-led.
 * Debugging
 * Git
 * Vim
+
+#### Lecture Notes/Cheat Sheets/Slides
+
+* Lecture 1 - Basic Terminal Commands
+    + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture01-basic-terminal-commands.md)
+    + [Slides](https://docs.google.com/presentation/d/1ie2kzFa5exW57Xh6T_0ITiaVvn-Z3tJMycR7T5Pid_Y/edit?usp=sharing)
 
 ### Quizzes
 
