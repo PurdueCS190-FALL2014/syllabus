@@ -30,7 +30,7 @@ It continues to be run by USB and is therefore entirely student-led.
     + [Slides](https://docs.google.com/presentation/d/1ie2kzFa5exW57Xh6T_0ITiaVvn-Z3tJMycR7T5Pid_Y/edit?usp=sharing)
 
 * Lecture 2 - More Terminal
-    + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture01-more-terminal.md)
+    + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture02-more-terminal.md)
     + [Slides](https://docs.google.com/presentation/d/1nXfy5ABaViVmoe_AbzI5mWezLXk3YhoWfLpJiazFh5w/edit?usp=sharing)
 
 ### Labs
