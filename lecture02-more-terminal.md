@@ -21,13 +21,13 @@ Or just do what I did for this entire lesson and search The Google.
 # echo <text_to_output>
 
 # print user inputted text to standard output
- echo 'hello world!'
+echo 'hello world!'
 
 # OUTPUT:
 # hello world!
 
 # enable escaped characters such as new line ('\n')
-   echo -e 'hello\n world!'
+echo -e 'hello\n world!'
 
 # OUTPUT:
 # hello
