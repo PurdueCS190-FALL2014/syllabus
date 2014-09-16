@@ -29,13 +29,20 @@ It continues to be run by USB and is therefore entirely student-led.
     + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture01-basic-terminal-commands.md)
     + [Slides](https://docs.google.com/presentation/d/1ie2kzFa5exW57Xh6T_0ITiaVvn-Z3tJMycR7T5Pid_Y/edit?usp=sharing)
 
-### Quizzes
-
-There will be a new quiz posted every two weeks on blackboard. We will remind you in class, but its your responsibility to stay on top of these and watch for new quizzes.
+* Lecture 2 - More Terminal
+    + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture01-more-terminal.md)
+    + [Slides](https://docs.google.com/presentation/d/1nXfy5ABaViVmoe_AbzI5mWezLXk3YhoWfLpJiazFh5w/edit?usp=sharing)
 
 ### Labs
 
 Labs are mandatory and they will be over topics taught in the previous week's lecture.
+
+* [Lab 1](https://github.com/PurdueCS190/lab1) - Introduction to CS190
+* [Lab 2](https://github.com/PurdueCS190/lab2) - What Does the _____ Say?
+
+### Quizzes
+
+There will be a new quiz posted every two weeks on blackboard. We will remind you in class, but its your responsibility to stay on top of these and watch for new quizzes.
 
 ### Grading
 
