@@ -74,9 +74,9 @@ find . -name myfile
 find myfolder/ -name myfile
 
 # not allowed because it starts the search at the / directory
-# DON'T NOT EVER RUN THIS!!
+# DO NOT EVER RUN THIS!!
 find / -name myfile
-# DON'T NOT EVER RUN THIS!!
+# DO NOT EVER RUN THIS!!
 ```
 
 Actual Examples
