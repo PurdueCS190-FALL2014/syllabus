@@ -59,9 +59,9 @@ pattern.
 # find <starting directory> <matching criteria and actions>
 ```
 
-[READ THIS](http://www.cs.purdue.edu/resources/policies/facilities/find.sxhtml) BEFORE YOU USE FIND ON YOUR OWN!!
+[READ THIS](https://www.cs.purdue.edu//resources/find.html) BEFORE YOU USE FIND ON YOUR OWN!!
 
-Never, ever run the FIND command starting at the / directory. This is one of the main rules of the CS Department. Make sure to use find within your home directory.
+Never, ever run the FIND command starting at the / directory on the CS machines. This is one of the main rules of the CS Department. Make sure to use find within your home directory.
 
 ```bash
 # allowed
