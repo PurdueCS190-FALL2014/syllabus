@@ -96,6 +96,10 @@ find ~/cs180 -name "*.class" -exec rm {} \;
 ```
 
 #### grep - file pattern searcher ####
+`grep` will search through the CONTENTS of files in order to find a pattern.
+
+Note that this is different from `find` which will search through file names to match a pattern.
+
 ```bash
 # Instructions
 # grep "<search term>" <files_to_search>
