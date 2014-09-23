@@ -46,7 +46,7 @@ cat myfile.txt
 
 ### Searching ###
 
-#### mv - move (rename) files ####
+#### find - Find a file recursively in a given directory ####
 
 The find command will search a folder and ALL of its subdirectories. For
 example, if Judy searches her home folder for a file, find will look in her
