@@ -39,6 +39,7 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 
 * [Lab 1](https://github.com/PurdueCS190/lab1) - Introduction to CS190
 * [Lab 2](https://github.com/PurdueCS190/lab2) - What Does the _____ Say?
+* [Lab 3](https://github.com/PurdueCS190/lab3) - The Doctor Exposed
 
 ### Quizzes
 
