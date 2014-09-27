@@ -46,7 +46,7 @@ cat myfile.txt
 
 ### Searching ###
 
-#### mv - move (rename) files ####
+#### find - Find a file recursively in a given directory ####
 
 The find command will search a folder and ALL of its subdirectories. For
 example, if Judy searches her home folder for a file, find will look in her
@@ -59,9 +59,9 @@ pattern.
 # find <starting directory> <matching criteria and actions>
 ```
 
-[READ THIS](http://www.cs.purdue.edu/resources/policies/facilities/find.sxhtml) BEFORE YOU USE FIND ON YOUR OWN!!
+[READ THIS](https://www.cs.purdue.edu//resources/find.html) BEFORE YOU USE FIND ON YOUR OWN!!
 
-Never, ever run the FIND command starting at the / directory. This is one of the main rules of the CS Department. Make sure to use find within your home directory.
+Never, ever run the FIND command starting at the / directory on the CS machines. This is one of the main rules of the CS Department. Make sure to use find within your home directory.
 
 ```bash
 # allowed
@@ -74,9 +74,9 @@ find . -name myfile
 find myfolder/ -name myfile
 
 # not allowed because it starts the search at the / directory
-# DON'T NOT EVER RUN THIS!!
+# DO NOT EVER RUN THIS!!
 find / -name myfile
-# DON'T NOT EVER RUN THIS!!
+# DO NOT EVER RUN THIS!!
 ```
 
 Actual Examples
@@ -96,6 +96,10 @@ find ~/cs180 -name "*.class" -exec rm {} \;
 ```
 
 #### grep - file pattern searcher ####
+`grep` will search through the CONTENTS of files in order to find a pattern.
+
+Note that this is different from `find` which will search through file names to match a pattern.
+
 ```bash
 # Instructions
 # grep "<search term>" <files_to_search>
