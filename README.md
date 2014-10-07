@@ -33,6 +33,10 @@ It continues to be run by USB and is therefore entirely student-led.
     + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture02-more-terminal.md)
     + [Slides](https://docs.google.com/presentation/d/1nXfy5ABaViVmoe_AbzI5mWezLXk3YhoWfLpJiazFh5w/edit?usp=sharing)
 
+* Lecture 3 - Your Environment
+    + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture03-your-environment.md)
+    + [Slides](https://docs.google.com/presentation/d/1cKGrsdB4V3UtWQZ7aYgfrtYCSXDBxSwE7fZWNVI16UE/edit?usp=sharing)
+
 ### Labs
 
 Labs are mandatory and they will be over topics taught in the previous week's lecture.
