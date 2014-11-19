@@ -21,7 +21,8 @@ It continues to be run by USB and is therefore entirely student-led.
 * Shell configuration
 * Debugging
 * Git
-* Vim
+* Vim (and maybe some other fun stuff)
+* Tips n Tricks
 
 #### Lecture Notes/Cheat Sheets/Slides
 
@@ -37,6 +38,18 @@ It continues to be run by USB and is therefore entirely student-led.
     + [Cheat Sheet](https://github.com/purduecs190/syllabus/blob/master/lecture03-your-environment.md)
     + [Slides](https://docs.google.com/presentation/d/1cKGrsdB4V3UtWQZ7aYgfrtYCSXDBxSwE7fZWNVI16UE/edit?usp=sharing)
 
+* Lecture 4 - Debugging
+    + [Slides](https://docs.google.com/presentation/d/1GA8FRq5618pvYbugs1kHfeiZ7oWRm-725vrvCF7CkeI/edit?usp=sharing)
+
+* Lecture 5 - Git Week One (Local Only)
+    + [Cheat Sheet](https://github.com/PurdueCS190/lab6/blob/master/cheat_sheet.md)
+    + [Slides](https://docs.google.com/presentation/d/16UcgWREn9yb808G4ihd-4tcVRcpU7n1s6Txg0shOZWs/edit?usp=sharing)
+
+* Lecture 6 - Git Week Two (Remotes)
+    + [Cheat Sheet](https://github.com/PurdueCS190/lab7/blob/master/cheat_sheet.md)
+    + [Slides](https://docs.google.com/presentation/d/13Pl9UIsPjaQTHr3TeSc3ZEnQI1koBSd1VjS8nalAIlA/edit?usp=sharing)
+
+
 ### Labs
 
 Labs are mandatory and they will be over topics taught in the previous week's lecture.
@@ -44,10 +57,15 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 * [Lab 1](https://github.com/PurdueCS190/lab1) - Introduction to CS190
 * [Lab 2](https://github.com/PurdueCS190/lab2) - What Does the _____ Say?
 * [Lab 3](https://github.com/PurdueCS190/lab3) - The Doctor Exposed
+* [Lab 4](https://github.com/PurdueCS190/lab4) - My New Shell
+* [Lab 5](https://github.com/PurdueCS190/lab5) - Basics of Git Part 1: Local Git
+* [Lab 6](https://github.com/PurdueCS190/lab6) - Basics of Git Part 2: Remotes and Github
 
 ### Quizzes
 
-There will be a new quiz posted every two weeks on blackboard. We will remind you in class, but its your responsibility to stay on top of these and watch for new quizzes.
+~~There will be a new quiz posted every two weeks on blackboard. We will remind you in class, but its your responsibility to stay on top of these and watch for new quizzes.~~
+
+Quizzes turned out to be pretty ineffective and mostly busywork, so we only had 2 quizzes. These will still be taken into account for grading. If you missed one of these, then that will still be minus one point.
 
 ### Grading
 
