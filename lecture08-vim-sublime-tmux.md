@@ -115,7 +115,7 @@ tmux a -t <number>				# tmux a -t 2
 Control+B
 
 # detach from tmux
-Control+B, D
+Control+B, d
 
 # rename pane
 Control+B, :rename <name>		# :rename testing
