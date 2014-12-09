@@ -87,9 +87,11 @@ Multiple Cursors are incredibly useful. Naturally, they let you select multiple 
 There are two ways to get multiple cursors.
 
 - Selecting text and hitting `Ctrl+D`
+
 ![](http://i.imgur.com/62RS0C8.gif)
 
 - Selecting lines and hitting `Ctrl+Shift+L`
+
 ![](http://i.gyazo.com/9cf79c9957945b0ff56aa9e8bb240939.gif)
 
 
