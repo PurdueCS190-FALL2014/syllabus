@@ -49,6 +49,12 @@ It continues to be run by USB and is therefore entirely student-led.
     + [Cheat Sheet](https://github.com/PurdueCS190/lab7/blob/master/cheat_sheet.md)
     + [Slides](https://docs.google.com/presentation/d/13Pl9UIsPjaQTHr3TeSc3ZEnQI1koBSd1VjS8nalAIlA/edit?usp=sharing)
 
+* Lecture 7 - Vim, Sublime, & Tmux
+	+ [Cheet Sheet](https://github.com/PurdueCS190/syllabus/blob/master/lecture07-vim-sublime-tmux.md)
+	+ [Slides](https://docs.google.com/presentation/d/1udvUD_MZ_Z9FlInyeS_EAZwYv19nUqcKUake3QmzKTg/edit?usp=sharing)
+
+* Lecture 8 - This is the End (Tips, Tricks, Internships, Personal Projects, and More!!)
+	+ [Slides](https://docs.google.com/presentation/d/1Q6U_lCPTeTFhmW-F4WvBuBdPFRE_ie668H7jNu4lqG4/edit?usp=sharing)	
 
 ### Labs
 
@@ -58,8 +64,10 @@ Labs are mandatory and they will be over topics taught in the previous week's le
 * [Lab 2](https://github.com/PurdueCS190/lab2) - What Does the _____ Say?
 * [Lab 3](https://github.com/PurdueCS190/lab3) - The Doctor Exposed
 * [Lab 4](https://github.com/PurdueCS190/lab4) - My New Shell
-* [Lab 5](https://github.com/PurdueCS190/lab5) - Basics of Git Part 1: Local Git
-* [Lab 6](https://github.com/PurdueCS190/lab6) - Basics of Git Part 2: Remotes and Github
+* [Lab 5](https://github.com/purduecs190/lab5) - Debugging
+* [Lab 6](https://github.com/PurdueCS190/lab6) - Basics of Git Part 1: Local Git
+* [Lab 7](https://github.com/PurdueCS190/lab7) - Basics of Git Part 2: Remotes and Github
+* [Lab 8](https://github.com/purduecs190/lab8) - Vim, Sublime, & Tmux
 
 ### Quizzes
 
